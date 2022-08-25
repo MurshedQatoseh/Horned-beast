@@ -6,7 +6,7 @@ class Footer extends React.Component {
     render() {
         return (
             <footer>
-            <p className='footer'>&copy; All rights resevered | Yazan Alfarra | {year}</p>
+            <p className='footer'>&copy; All rights resevered | murshed qattosah | {year}</p>
             </footer>
         )
     }
